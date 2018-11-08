@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="8" total="50" passed="42">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="265458" started-at="2018-06-23T22:36:35Z" finished-at="2018-06-23T22:41:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="265458" started-at="2018-06-23T22:36:35Z" finished-at="2018-06-23T22:41:01Z">
+      <class name="com.deem.test.Sample_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="setUp" is-config="true" duration-ms="5" started-at="2018-06-23T15:36:35Z" finished-at="2018-06-23T15:36:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6178" started-at="2018-06-23T15:36:35Z" data-provider="listOfURLs" finished-at="2018-06-23T15:36:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://linkagetravel.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6133" started-at="2018-06-23T15:36:42Z" data-provider="listOfURLs" finished-at="2018-06-23T15:36:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://linksinc.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5883" started-at="2018-06-23T15:36:48Z" data-provider="listOfURLs" finished-at="2018-06-23T15:36:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://linsalatacapital.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="21952" started-at="2018-06-23T15:36:54Z" data-provider="listOfURLs" finished-at="2018-06-23T15:37:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://liquidadvertising.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5749" started-at="2018-06-23T15:37:16Z" data-provider="listOfURLs" finished-at="2018-06-23T15:37:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://liquidweb.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5983" started-at="2018-06-23T15:37:21Z" data-provider="listOfURLs" finished-at="2018-06-23T15:37:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lisbongroup.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5968" started-at="2018-06-23T15:37:27Z" data-provider="listOfURLs" finished-at="2018-06-23T15:37:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://littlertravel.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5584" started-at="2018-06-23T15:37:33Z" data-provider="listOfURLs" finished-at="2018-06-23T15:37:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://livcor.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5948" started-at="2018-06-23T15:37:39Z" data-provider="listOfURLs" finished-at="2018-06-23T15:37:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://liveoakbank.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5824" started-at="2018-06-23T15:37:45Z" data-provider="listOfURLs" finished-at="2018-06-23T15:37:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lmtdefense.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6058" started-at="2018-06-23T15:37:51Z" data-provider="listOfURLs" finished-at="2018-06-23T15:37:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lohmann.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5992" started-at="2018-06-23T15:37:57Z" data-provider="listOfURLs" finished-at="2018-06-23T15:38:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lombardodier.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5975" started-at="2018-06-23T15:38:03Z" data-provider="listOfURLs" finished-at="2018-06-23T15:38:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://longmeadowranch.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5863" started-at="2018-06-23T15:38:09Z" data-provider="listOfURLs" finished-at="2018-06-23T15:38:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://longtail1.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6059" started-at="2018-06-23T15:38:14Z" data-provider="listOfURLs" finished-at="2018-06-23T15:38:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://longtail2.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6666" started-at="2018-06-23T15:38:21Z" data-provider="listOfURLs" finished-at="2018-06-23T15:38:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://longtail3.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6120" started-at="2018-06-23T15:38:27Z" data-provider="listOfURLs" finished-at="2018-06-23T15:38:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://longtail4.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6047" started-at="2018-06-23T15:38:33Z" data-provider="listOfURLs" finished-at="2018-06-23T15:38:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://longtail5.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5755" started-at="2018-06-23T15:38:39Z" data-provider="listOfURLs" finished-at="2018-06-23T15:38:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://loosnaples.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5804" started-at="2018-06-23T15:38:45Z" data-provider="listOfURLs" finished-at="2018-06-23T15:38:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lootok.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6107" started-at="2018-06-23T15:38:51Z" data-provider="listOfURLs" finished-at="2018-06-23T15:38:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://loromamerica.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5618" started-at="2018-06-23T15:38:57Z" data-provider="listOfURLs" finished-at="2018-06-23T15:39:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lotlinx.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6074" started-at="2018-06-23T15:39:03Z" data-provider="listOfURLs" finished-at="2018-06-23T15:39:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://loveculture.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5824" started-at="2018-06-23T15:39:09Z" data-provider="listOfURLs" finished-at="2018-06-23T15:39:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://loves.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6025" started-at="2018-06-23T15:39:15Z" data-provider="listOfURLs" finished-at="2018-06-23T15:39:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lqxinc.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5621" started-at="2018-06-23T15:39:21Z" data-provider="listOfURLs" finished-at="2018-06-23T15:39:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lrmlaw.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5632" started-at="2018-06-23T15:39:26Z" data-provider="listOfURLs" finished-at="2018-06-23T15:39:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lsi.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5892" started-at="2018-06-23T15:39:32Z" data-provider="listOfURLs" finished-at="2018-06-23T15:39:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://luisatest.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5747" started-at="2018-06-23T15:39:38Z" data-provider="listOfURLs" finished-at="2018-06-23T15:39:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lukeandashley.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6131" started-at="2018-06-23T15:39:43Z" data-provider="listOfURLs" finished-at="2018-06-23T15:39:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lululemonathleticaus.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5743" started-at="2018-06-23T15:39:50Z" data-provider="listOfURLs" finished-at="2018-06-23T15:39:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lumibuild.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5625" started-at="2018-06-23T15:39:55Z" data-provider="listOfURLs" finished-at="2018-06-23T15:40:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://luminex.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6252" started-at="2018-06-23T15:40:01Z" data-provider="listOfURLs" finished-at="2018-06-23T15:40:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lvcpartners.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5949" started-at="2018-06-23T15:40:07Z" data-provider="listOfURLs" finished-at="2018-06-23T15:40:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lvmhus.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6152" started-at="2018-06-23T15:40:13Z" data-provider="listOfURLs" finished-at="2018-06-23T15:40:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lynntest.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6226" started-at="2018-06-23T15:40:19Z" data-provider="listOfURLs" finished-at="2018-06-23T15:40:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://m2test.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5993" started-at="2018-06-23T15:40:26Z" data-provider="listOfURLs" finished-at="2018-06-23T15:40:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://macrogenics.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5552" started-at="2018-06-23T15:40:32Z" data-provider="listOfURLs" finished-at="2018-06-23T15:40:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://magspecialtiesinc.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6083" started-at="2018-06-23T15:40:37Z" data-provider="listOfURLs" finished-at="2018-06-23T15:40:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://mamthatest.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="6093" started-at="2018-06-23T15:40:43Z" data-provider="listOfURLs" finished-at="2018-06-23T15:40:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://mamthatestapollo.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5835" started-at="2018-06-23T15:40:49Z" data-provider="listOfURLs" finished-at="2018-06-23T15:40:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://mamthatestsite2.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="testGBTURLs(java.lang.String)[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="testGBTURLs" duration-ms="5692" started-at="2018-06-23T15:40:55Z" data-provider="listOfURLs" finished-at="2018-06-23T15:41:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://manchac.gbtconnect.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGBTURLs -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.deem.test.Sample_Test@4501b7af]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-06-23T15:41:01Z" finished-at="2018-06-23T15:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.deem.test.Sample_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
